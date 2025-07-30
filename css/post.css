@@ -1,0 +1,10 @@
+.post-text-area {
+    resize: none;
+}
+
+.row {
+    display: flex;
+    align-items: center;
+    height: 50vh;
+    justify-content: center;
+}

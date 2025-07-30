@@ -1,0 +1,15 @@
+.container-fluid { 
+    padding-left:0px;
+    padding-right:0px;
+    max-width: none;
+}
+#bg-wrap{
+    filter: blur(4px);
+    background-color: black;
+}
+#myCarousel{
+    overflow: hidden;
+}
+.logo{
+    width: 25%;
+}
